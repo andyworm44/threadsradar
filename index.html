@@ -75,6 +75,13 @@
     <button class="refresh-btn" onclick="location.reload()">重新整理</button>
     <button class="scrape-btn" id="scrape-feed-btn" onclick="runScrape('feed')">爬首頁動態</button>
     <button class="scrape-btn" id="scrape-keyword-btn" onclick="runScrape('keyword')">爬關鍵字</button>
+    <script>
+      // GitHub Pages 上隱藏爬蟲按鈕（沒有後端）
+      if (location.hostname.includes('github.io')) {
+        document.getElementById('scrape-feed-btn').style.display = 'none';
+        document.getElementById('scrape-keyword-btn').style.display = 'none';
+      }
+    </script>
   </header>
 
   <div class="filter-bar">
