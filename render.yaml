@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: threads-radar
+    runtime: docker
+    plan: free
+    healthCheckPath: /
+    envVars: []
