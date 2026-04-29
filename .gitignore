@@ -1,0 +1,7 @@
+.env
+cookies.json
+scraper.log
+__pycache__/
+*.pyc
+debug_*.py
+get_token.py

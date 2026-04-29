@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ThreadsRadar 串文雷達</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f5; color: #222; }
+
+    header {
+      background: #fff;
+      border-bottom: 1px solid #e0e0e0;
+      padding: 14px 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    header h1 { font-size: 18px; font-weight: 700; }
+    #updated { font-size: 12px; color: #aaa; margin-left: auto; }
+    .refresh-btn {
+      background: #000; color: #fff; border: none;
+      padding: 7px 14px; border-radius: 20px; font-size: 12px; cursor: pointer;
+    }
+    .scrape-btn {
+      background: #2563eb; color: #fff; border: none;
+      padding: 7px 14px; border-radius: 20px; font-size: 12px; cursor: pointer;
+    }
+    .scrape-btn:disabled { background: #93c5fd; cursor: not-allowed; }
+
+    .filter-bar { max-width: 680px; margin: 12px auto 0; padding: 0 16px; }
+    .filter-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; align-items: center; }
+    .filter-label { font-size: 11px; color: #aaa; white-space: nowrap; }
+
+    .tab {
+      padding: 5px 14px; border-radius: 20px; font-size: 13px;
+      cursor: pointer; background: #fff; border: 1px solid #ddd; color: #555;
+      transition: all 0.15s;
+    }
+    .tab.active, .tab:hover { background: #000; color: #fff; border-color: #000; }
+    .time-tab.active, .time-tab:hover { background: #2563eb; border-color: #2563eb; color: #fff; }
+
+    main { max-width: 680px; margin: 12px auto 60px; padding: 0 16px; }
+
+    .card {
+      background: #fff; border-radius: 12px; padding: 14px;
+      margin-bottom: 8px; border: 1px solid #e8e8e8;
+    }
+    .card-meta { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; flex-wrap: wrap; }
+    .tag { font-size: 11px; background: #f0f0f0; color: #666; padding: 2px 8px; border-radius: 10px; }
+    .time-ago { font-size: 12px; color: #aaa; }
+    .card p { font-size: 14px; line-height: 1.7; color: #333; white-space: pre-wrap; }
+    .card-footer {
+      display: flex; align-items: center; gap: 14px;
+      margin-top: 10px; padding-top: 8px; border-top: 1px solid #f0f0f0;
+    }
+    .stat { display: flex; align-items: center; gap: 4px; font-size: 12px; color: #888; }
+    .stat-num { font-weight: 700; color: #333; }
+    .view-link { margin-left: auto; font-size: 12px; color: #0066cc; text-decoration: none; }
+    .view-link:hover { text-decoration: underline; }
+
+    .empty { text-align: center; padding: 60px 20px; color: #888; }
+    .loading { text-align: center; padding: 60px; color: #888; }
+    .count-bar { font-size: 12px; color: #aaa; margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <span>📡</span>
+    <h1>ThreadsRadar 串文雷達</h1>
+    <span id="updated"></span>
+    <button class="refresh-btn" onclick="location.reload()">重新整理</button>
+    <button class="scrape-btn" id="scrape-feed-btn" onclick="runScrape('feed')">爬首頁動態</button>
+    <button class="scrape-btn" id="scrape-keyword-btn" onclick="runScrape('keyword')">爬關鍵字</button>
+  </header>
+
+  <div class="filter-bar">
+    <div class="filter-row">
+      <span class="filter-label">時間</span>
+      <div id="time-tabs"></div>
+    </div>
+  </div>
+
+  <main id="main"><div class="loading">載入中...</div></main>
+
+  <script>
+    let allPosts = [];
+    let currentTime = '12h';
+
+    const TIME_FILTERS = [
+      { id: '1h',  label: '1 小時',  hours: 1 },
+      { id: '3h',  label: '3 小時',  hours: 3 },
+      { id: '6h',  label: '6 小時',  hours: 6 },
+      { id: '12h', label: '12 小時', hours: 12 },
+      { id: '24h', label: '24 小時', hours: 24 },
+    ];
+
+    function toHoursAgo(post) {
+      if (post.datetime) {
+        const d = new Date(post.datetime);
+        if (!isNaN(d)) return (Date.now() - d.getTime()) / 3600000;
+      }
+      const t = (post.time_text || '').trim();
+      if (!t) return null;
+      const mh = t.match(/^(\d+)h$/i); if (mh) return parseInt(mh[1]);
+      const mm = t.match(/^(\d+)m$/i); if (mm) return parseInt(mm[1]) / 60;
+      const md = t.match(/^(\d+)d$/i); if (md) return parseInt(md[1]) * 24;
+      const mw = t.match(/^(\d+)w$/i); if (mw) return parseInt(mw[1]) * 24 * 7;
+      const mdate = t.match(/^(\d{2})\/(\d{2})\/(\d{2,4})$/);
+      if (mdate) {
+        let year = parseInt(mdate[3]);
+        if (year < 100) year += 2000;
+        return (Date.now() - new Date(year, parseInt(mdate[1])-1, parseInt(mdate[2])).getTime()) / 3600000;
+      }
+      return null;
+    }
+
+    async function load() {
+      try {
+        const res = await fetch('data.json?t=' + Date.now());
+        if (!res.ok) throw new Error();
+        const data = await res.json();
+        document.getElementById('updated').textContent = '更新：' + data.updated;
+        allPosts = data.posts || [];
+
+        // 時間 tabs
+        const timeEl = document.getElementById('time-tabs');
+        timeEl.innerHTML = '';
+        timeEl.style.cssText = 'display:flex;gap:8px;flex-wrap:wrap;';
+        TIME_FILTERS.forEach(f => {
+          const btn = document.createElement('button');
+          btn.className = 'tab time-tab' + (f.id === currentTime ? ' active' : '');
+          btn.textContent = f.label;
+          btn.onclick = () => {
+            currentTime = f.id;
+            document.querySelectorAll('.time-tab').forEach(t => t.classList.remove('active'));
+            btn.classList.add('active');
+            render();
+          };
+          timeEl.appendChild(btn);
+        });
+
+        render();
+      } catch {
+        document.getElementById('main').innerHTML = '<div class="empty">尚無資料，請執行 python3 scraper.py</div>';
+      }
+    }
+
+    function formatNum(n) {
+      if (!n) return '0';
+      if (n >= 10000) return (n/10000).toFixed(1) + '萬';
+      if (n >= 1000) return (n/1000).toFixed(1) + 'K';
+      return String(n);
+    }
+
+    function render() {
+      const main = document.getElementById('main');
+      const tf = TIME_FILTERS.find(f => f.id === currentTime);
+
+      let posts = allPosts.filter(p => {
+        const h = toHoursAgo(p);
+        return h !== null && h <= tf.hours;
+      });
+      posts = [...posts].sort((a, b) => (b.likes || 0) - (a.likes || 0));
+
+      main.innerHTML = '';
+
+      if (posts.length === 0) {
+        main.innerHTML = '<div class="empty">這個時間範圍內沒有文章</div>';
+        return;
+      }
+
+      const countBar = document.createElement('div');
+      countBar.className = 'count-bar';
+      countBar.textContent = `共 ${posts.length} 篇`;
+      main.appendChild(countBar);
+
+      posts.forEach(post => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        const hasStats = post.likes > 0 || post.replies > 0 || post.reposts > 0;
+        card.innerHTML = `
+          <div class="card-meta">
+            ${post.time_bucket ? `<span class="tag">${post.time_bucket}</span>` : ''}
+            ${post.username ? `<span class="tag" style="background:#f0fdf4;color:#16a34a">@${escapeHtml(post.username)}</span>` : ''}
+            ${post.time_text ? `<span class="time-ago">🕐 ${post.time_text} 前</span>` : ''}
+          </div>
+          <p>${escapeHtml(post.text)}</p>
+          <div class="card-footer">
+            ${hasStats ? `
+              <span class="stat">❤️ <span class="stat-num">${formatNum(post.likes)}</span></span>
+              <span class="stat">💬 <span class="stat-num">${formatNum(post.replies)}</span></span>
+              <span class="stat">🔁 <span class="stat-num">${formatNum(post.reposts)}</span></span>
+            ` : '<span class="stat" style="color:#ccc">無互動數據</span>'}
+            ${post.url ? `<a class="view-link" href="${post.url}" target="_blank">查看原文 →</a>` : ''}
+          </div>
+        `;
+        main.appendChild(card);
+      });
+    }
+
+    function escapeHtml(t) {
+      return String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    }
+
+    async function runScrape(mode) {
+      const feedBtn = document.getElementById('scrape-feed-btn');
+      const kwBtn = document.getElementById('scrape-keyword-btn');
+      const origFeed = feedBtn.textContent;
+      const origKw = kwBtn.textContent;
+      feedBtn.disabled = true;
+      kwBtn.disabled = true;
+      if (mode === 'feed') {
+        feedBtn.textContent = '爬取中...';
+      } else {
+        kwBtn.textContent = '爬取中...';
+      }
+      try {
+        await fetch('/api/scrape', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ mode }),
+        });
+        const poll = setInterval(async () => {
+          const res = await fetch('/api/status');
+          const { scraping } = await res.json();
+          if (!scraping) {
+            clearInterval(poll);
+            feedBtn.disabled = false;
+            kwBtn.disabled = false;
+            feedBtn.textContent = origFeed;
+            kwBtn.textContent = origKw;
+            await load();
+          }
+        }, 5000);
+      } catch {
+        feedBtn.disabled = false;
+        kwBtn.disabled = false;
+        feedBtn.textContent = origFeed;
+        kwBtn.textContent = origKw;
+      }
+    }
+
+    load();
+  </script>
+</body>
+</html>
