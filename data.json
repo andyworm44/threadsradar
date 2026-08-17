@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18 01:41",
-  "total": 790,
+  "updated": "2026-08-18 02:08",
+  "total": 805,
   "posts": [
     {
       "text": "6小時\n請問各位把媽媽的網路切掉是違法的嗎??",
@@ -121,7 +121,7 @@
       "likes": 7857,
       "replies": 38,
       "reposts": 433,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "超夯：牛肉麵\n4小時\n根本牛肉麵夢男",
@@ -341,7 +341,7 @@
       "likes": 6257,
       "replies": 54,
       "reposts": 22,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "13小時\n這是什麼王子病啊……\n如果他帥到不行那還可以稍微理解\n但想想講出這些話然後腦補配上9妹的臉\n我就搞不懂了 😀\n祝福11 會遇到真心愛妳疼妳的❤️",
@@ -454,17 +454,6 @@
       "time_bucket": "24小時內"
     },
     {
-      "text": "15小時\n读到这句话的时候迟疑了一下 估计是在想是哪个傻逼写的",
-      "url": "https://www.threads.com/@tiger.2013958/post/DcHDd2Sjy86",
-      "username": "tiger.2013958",
-      "time_text": "15小時",
-      "datetime": "2026-08-16T17:59:44.000Z",
-      "likes": 5294,
-      "replies": 191,
-      "reposts": 135,
-      "time_bucket": "24小時內"
-    },
-    {
       "text": "2小時\n各位關心Wilson的朋友大家好，我是高橋動物醫院院長殷醫師。\n近期網路上有關Wilson與高橋動物醫院之間的相關訊息，為避免資訊誤解，在此針對實際情況說明。\nWilson在2024年底後並未再於本院就診。並非如網路上所流傳，是在高橋動物醫院接受急救後過世。\n我們理解大家都很關心Wilson，也希望了解事情的真相。但在資訊尚未完整確認之前，仍懇請大家以相關事實為依據，冷靜查證整件事情的始末，避免因未經確認的網路訊息而產生誤解。",
       "url": "https://www.threads.com/@takahashi.hualien/post/DcJI08eFOcF",
       "username": "takahashi.hualien",
@@ -495,7 +484,7 @@
       "likes": 5009,
       "replies": 61,
       "reposts": 42,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "7小時\n突然想到我們之後變阿公阿嬤每個月還要在限動發Dump 就很好笑",
@@ -671,7 +660,7 @@
       "likes": 4115,
       "replies": 0,
       "reposts": 8,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "11小時\n請大家沾沾我的喜氣\n草莓族真的要哭了",
@@ -792,7 +781,7 @@
       "likes": 3502,
       "replies": 84,
       "reposts": 3,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "7小時\n今天聽到最驚訝的事情：\n我婆婆以前所有的衣服都是訂做的\n婆婆的媽媽會帶她去布料行選布，\n然後看儂儂雜誌挑喜歡的款式給裁縫訂製\n他說在以前這是很平常的事情\n但現在那些老裁縫師都走了\n聽起來好高級，大概是我這輩子做不到的事情\n我連改衣服都覺得那個錢可以買新的ಠ_ಠ",
@@ -870,6 +859,17 @@
       "replies": 64,
       "reposts": 295,
       "time_bucket": "12小時內"
+    },
+    {
+      "text": "15小時\n听到同事说去看了西医觉得西医在骗她，准备去看中医唯一顾虑是中医把脉能看出她是不是处女的时候我想把眼睛闭上了\n翻譯",
+      "url": "https://www.threads.com/@daze0522/post/DcH8G_lHakx",
+      "username": "daze0522",
+      "time_text": "15小時",
+      "datetime": "2026-08-17T02:13:39.000Z",
+      "likes": 3242,
+      "replies": 0,
+      "reposts": 12,
+      "time_bucket": "24小時內"
     },
     {
       "text": "3小時\n敢要求無套的男生，\n不可能多珍惜你。\n不只是會不會懷孕的問題，\n而是你無法確定他身上是否殘留多人的體液。\n五告胎戈。",
@@ -1100,7 +1100,7 @@
       "likes": 2451,
       "replies": 0,
       "reposts": 24,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "超夯：普發現金\n2小時\n賴清德總統今日宣布，明年每人現金普發1萬元！\n今年第一季經濟成長率達15.43%，第二季初步統計達12.93%，台灣經濟連續三季呈現雙位數成長。\n主計總處最新預測今年全年的經濟成長率，也可望達11.05%，將創下39年來新高的紀錄。\n因此賴清德總統今天宣布，在歲出歲入平衡、實質零舉債的前提下，明年將每人普發現金1萬元，讓AI紅利帶來的台灣經濟成長，與全民共享。",
@@ -1169,6 +1169,17 @@
       "time_bucket": "6小時內"
     },
     {
+      "text": "19小時\n寶貝起床 為什麼被子都可以在你身上我不行\n翻譯",
+      "url": "https://www.threads.com/@jenny._.rd/post/DcHmSVxD_Cy",
+      "username": "jenny._.rd",
+      "time_text": "19小時",
+      "datetime": "2026-08-16T23:02:58.000Z",
+      "likes": 2335,
+      "replies": 0,
+      "reposts": 147,
+      "time_bucket": "24小時內"
+    },
+    {
       "text": "9小時\n草東➡️勇敢的人\n美秀➡️做夢的人\n康士坦的變化球➡️擱淺的人\n我➡️沒錢的人",
       "url": "https://www.threads.com/@zero._.0408/post/DcIe5h4krU0",
       "username": "zero._.0408",
@@ -1200,6 +1211,17 @@
       "replies": 44,
       "reposts": 254,
       "time_bucket": "12小時內"
+    },
+    {
+      "text": "13小時\n考古 我開始認識Nmixx的起點是被窩這兩部\n啾超可愛 但裴真率你到底怎麼咬住手機的\n翻譯",
+      "url": "https://www.threads.com/@ii.xxii.mmxxii/post/DcIOaJ_H8kB",
+      "username": "ii.xxii.mmxxii",
+      "time_text": "13小時",
+      "datetime": "2026-08-17T04:53:34.000Z",
+      "likes": 2288,
+      "replies": 0,
+      "reposts": 157,
+      "time_bucket": "24小時內"
     },
     {
       "text": "21小時\n壞消息太多 來聽點好消息\n恭喜Stray Kids拿到第9個Billboard 200 一位！！！\n粗卡粗卡粗卡！！！\n翻譯",
@@ -1246,17 +1268,6 @@
       "time_bucket": "12小時內"
     },
     {
-      "text": "18小時\n寶貝起床 為什麼被子都可以在你身上我不行\n翻譯",
-      "url": "https://www.threads.com/@jenny._.rd/post/DcHmSVxD_Cy",
-      "username": "jenny._.rd",
-      "time_text": "18小時",
-      "datetime": "2026-08-16T23:02:58.000Z",
-      "likes": 2203,
-      "replies": 0,
-      "reposts": 138,
-      "time_bucket": "24小時內"
-    },
-    {
       "text": "9小時\n每天都在催我睡覺但還是會陪我",
       "url": "https://www.threads.com/@1_wang_/post/DcIcCPzEYrM",
       "username": "1_wang_",
@@ -1276,17 +1287,6 @@
       "likes": 2143,
       "replies": 87,
       "reposts": 199,
-      "time_bucket": "24小時內"
-    },
-    {
-      "text": "15小時\njoeman在那邊評分很討厭\n但很多人不知道女生跟男生約會回去跟閨蜜分享的時候\n也是在那邊加分扣分加分扣分\n這件事一直都不是男生的專利好嗎XDD",
-      "url": "https://www.threads.com/@beetlefour/post/DcHB_T8CC1G",
-      "username": "beetlefour",
-      "time_text": "15小時",
-      "datetime": "2026-08-16T17:45:48.000Z",
-      "likes": 2121,
-      "replies": 78,
-      "reposts": 37,
       "time_bucket": "24小時內"
     },
     {
@@ -1389,6 +1389,17 @@
       "time_bucket": "12小時內"
     },
     {
+      "text": "12小時\n當恩密在唱DASH時\n恩瑟們都很有默契的ZIG ZAG\n連我在五樓的蛋頂都聽的非常清楚🤩\n拍攝位置：L5 508區 18排(蛋頂)\n翻譯",
+      "url": "https://www.threads.com/@redwei0810/post/DcIQiJ9jori",
+      "username": "redwei0810",
+      "time_text": "12小時",
+      "datetime": "2026-08-17T05:14:48.000Z",
+      "likes": 1861,
+      "replies": 0,
+      "reposts": 134,
+      "time_bucket": "24小時內"
+    },
+    {
       "text": "15小時\n當一群機制怪裡出了個數值怪，你就該想想這數值有多離譜了\n翻譯",
       "url": "https://www.threads.com/@the_baka_on_the_hill/post/DcH6boBnS7Y",
       "username": "the_baka_on_the_hill",
@@ -1409,6 +1420,28 @@
       "replies": 13,
       "reposts": 163,
       "time_bucket": "12小時內"
+    },
+    {
+      "text": "搞笑日常\n7小時\n後座力真強\n翻譯",
+      "url": "https://www.threads.com/@orangebruce512/post/DcI2ZncEiTI",
+      "username": "orangebruce512",
+      "time_text": "7小時",
+      "datetime": "2026-08-17T10:43:01.000Z",
+      "likes": 1774,
+      "replies": 0,
+      "reposts": 49,
+      "time_bucket": "12小時內"
+    },
+    {
+      "text": "12小時\n🎙️：當你看到你爸爸或媽媽開車時，你會給他們一些駕駛建議嗎？\n🆑️：會！遵守紅綠燈，就這樣^^\n🎙️：你有沒有什麼建議，可以給那些正在看節目、但平常開車不太好的人？\n🆑️：在馬路上，我們就遵守交通規則。至於在賽道上嘛⋯⋯我們就是開！\n特別遵守交通規則的mini Charles😭😭\n此貓長大後開著法拉利在大街上追偷他理查德米勒限量錶的小偷還記得打方向燈\n翻譯",
+      "url": "https://www.threads.com/@911111.91/post/DcITaChiXzy",
+      "username": "911111.91",
+      "time_text": "12小時",
+      "datetime": "2026-08-17T05:41:01.000Z",
+      "likes": 1755,
+      "replies": 0,
+      "reposts": 100,
+      "time_bucket": "24小時內"
     },
     {
       "text": "7小時\n吸引不到異性越來越正常了\n可能都吸引ㄊㄨㄥ..ㄒ..",
@@ -1532,17 +1565,6 @@
       "time_bucket": "24小時內"
     },
     {
-      "text": "感情\n22小時\n一個桃花玄學：\n當你開始認真過生活\n把重心放回自己身上\n甚至不太在意愛情的時候\n桃花會突然變多\n但裡面\n一定會混一個讓你暈的",
-      "url": "https://www.threads.com/@walkwithsoul.tw/post/DcHC6MUEr09",
-      "username": "walkwithsoul.tw",
-      "time_text": "22小時",
-      "datetime": "2026-08-16T17:53:50.000Z",
-      "likes": 1601,
-      "replies": 2,
-      "reposts": 17,
-      "time_bucket": "24小時內"
-    },
-    {
       "text": "una901012 在 2 小時前轉發\n4小時\n台中這間冰店收藏很久終於來了!!!\n為了吃到梨山水蜜桃冰等了40分鐘還淋雨\n還好沒有失望很好吃～～～🍑✨",
       "url": "https://www.threads.com/@chien___158/post/DcI7URVkVN6",
       "username": "una901012",
@@ -1609,6 +1631,17 @@
       "time_bucket": "24小時內"
     },
     {
+      "text": "9小時\n20260817南俊性感美背事件!!\n有阿米把各種角度集合在一起~~\n翻譯",
+      "url": "https://www.threads.com/@emina_chang/post/DcIl1J-GEMm",
+      "username": "emina_chang",
+      "time_text": "9小時",
+      "datetime": "2026-08-17T08:20:22.000Z",
+      "likes": 1451,
+      "replies": 0,
+      "reposts": 191,
+      "time_bucket": "12小時內"
+    },
+    {
       "text": "13小時\n昨天跟男友規劃好\n一個人搶10號一個人搶11號\n總會有機會中一天吧\n結果我們兩個人都買到了\n今年的運氣 是不是都用完了\n翻譯",
       "url": "https://www.threads.com/@ting1152428/post/DcIDMLFGDG8",
       "username": "ting1152428",
@@ -1628,17 +1661,6 @@
       "likes": 1441,
       "replies": 0,
       "reposts": 266,
-      "time_bucket": "24小時內"
-    },
-    {
-      "text": "22小時\n今年又有好多純愛戰士應聲倒地😭",
-      "url": "https://www.threads.com/@yuuxxh/post/DcHC-mRk9r5",
-      "username": "yuuxxh",
-      "time_text": "22小時",
-      "datetime": "2026-08-16T17:54:26.000Z",
-      "likes": 1410,
-      "replies": 56,
-      "reposts": 69,
       "time_bucket": "24小時內"
     },
     {
@@ -1815,7 +1837,7 @@
       "likes": 1192,
       "replies": 0,
       "reposts": 5,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "5小時\n我黏人的程度be like :\n寶寶離開一分鐘（完了好想）\n兩分鐘（我思念成災了）\n三分鐘（我要..我要找寶寶）\n四分鐘（寶寶…我想你..）",
@@ -1859,7 +1881,18 @@
       "likes": 1126,
       "replies": 749,
       "reposts": 6,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
+    },
+    {
+      "text": "極速領域\n11小時\n偷偷說，小橘子一大早就去踢老闆門要全服加碼獎勵了！\n請各位等小橘子的好消息！！\n快幫小橘子推推讓老闆看到大家的心聲！！\n翻譯",
+      "url": "https://www.threads.com/@garena.speeddrifters/post/DcIYzljkgLB",
+      "username": "garena.speeddrifters",
+      "time_text": "11小時",
+      "datetime": "2026-08-17T06:24:25.000Z",
+      "likes": 1109,
+      "replies": 0,
+      "reposts": 24,
+      "time_bucket": "12小時內"
     },
     {
       "text": "8小時\n最近處女座因為Joeman被砲轟的更慘了\n我想說的是\n九月處女座與此事無關\n八月那批自己闖的禍，請不要跨月連坐(｀_´)ゞ",
@@ -1871,17 +1904,6 @@
       "replies": 106,
       "reposts": 23,
       "time_bucket": "12小時內"
-    },
-    {
-      "text": "超夯：趙建銘\n22小時\n星期五晚上：跟另一半一起罵趙建銘\n星期日晚上：跟另一半一起罵九妹",
-      "url": "https://www.threads.com/@13eee.postcard/post/DcHCio2CUWT",
-      "username": "13eee.postcard",
-      "time_text": "22小時",
-      "datetime": "2026-08-16T17:50:37.000Z",
-      "likes": 1103,
-      "replies": 6,
-      "reposts": 6,
-      "time_bucket": "24小時內"
     },
     {
       "text": "15小時\n喜歡跟男朋友待在一起 因為只有那個時候可以當皇上",
@@ -1994,6 +2016,17 @@
       "time_bucket": "24小時內"
     },
     {
+      "text": "9小時\n帶牙套後VS帶牙套前😍😍\n大開心欸 但我變很胖沒有牙套臉😁\n翻譯",
+      "url": "https://www.threads.com/@linghui__00/post/DcIpwk4j8Sq",
+      "username": "linghui__00",
+      "time_text": "9小時",
+      "datetime": "2026-08-17T08:52:33.000Z",
+      "likes": 996,
+      "replies": 0,
+      "reposts": 2,
+      "time_bucket": "12小時內"
+    },
+    {
       "text": "14小時\n果然外遇只有0跟♾️\n努力的照顧好孩子跟這個家\n成為支撐你的後盾 不讓你操心\n換來的卻是一次次欺騙與背叛\n這次 我選擇了愛自己\n翻譯",
       "url": "https://www.threads.com/@centerying/post/DcH_mBlmtlm",
       "username": "centerying",
@@ -2005,6 +2038,17 @@
       "time_bucket": "24小時內"
     },
     {
+      "text": "7小時\n有人知道什麼叫早餐店好喝的大冰奶嗎？\n就是要用精緻糖去除便宜紅茶的苦澀味\n然後那一罐奶精拿起來往死裡轉好幾圈\n切記冰塊也別偷懶要冰不冰我會很不爽\n跪求垃圾奶精大冰奶好喝地圖🙏\n我一個一個去評分！！！！！！\n翻譯",
+      "url": "https://www.threads.com/@vigueurchen/post/DcI39AHCSWD",
+      "username": "vigueurchen",
+      "time_text": "7小時",
+      "datetime": "2026-08-17T10:56:35.000Z",
+      "likes": 970,
+      "replies": 0,
+      "reposts": 19,
+      "time_bucket": "12小時內"
+    },
+    {
       "text": "10小時\n講真的\n連常田大希凌晨三點叫我去煮牛肉麵我都會飆過去幫他煮",
       "url": "https://www.threads.com/@abuku_.0o/post/DcIV202EsoD",
       "username": "abuku_.0o",
@@ -2013,7 +2057,7 @@
       "likes": 970,
       "replies": 26,
       "reposts": 68,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "超夯：分科\n3小時\n分科生be like:",
@@ -2115,17 +2159,6 @@
       "time_bucket": "12小時內"
     },
     {
-      "text": "5小時\n有人知道什麼叫早餐店好喝的大冰奶嗎？\n就是要用精緻糖去除便宜紅茶的苦澀味\n然後那一罐奶精拿起來往死裡轉好幾圈\n切記冰塊也別偷懶要冰不冰我會很不爽\n跪求垃圾奶精大冰奶好喝地圖🙏\n我一個一個去評分！！！！！！\n翻譯",
-      "url": "https://www.threads.com/@vigueurchen/post/DcI39AHCSWD",
-      "username": "vigueurchen",
-      "time_text": "5小時",
-      "datetime": "2026-08-17T10:56:35.000Z",
-      "likes": 871,
-      "replies": 0,
-      "reposts": 14,
-      "time_bucket": "12小時內"
-    },
-    {
       "text": "12強棒球賽\n10小時\n12強賽與奧運資格賽將在台灣舉行！　世界棒壘球會長法卡利親自宣布 ＃12強 ＃奧運 ＃WBSC\n翻譯",
       "url": "https://www.threads.com/@tsna.ig/post/DcIYsd-mhmc",
       "username": "tsna.ig",
@@ -2145,7 +2178,7 @@
       "likes": 860,
       "replies": 30,
       "reposts": 0,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "14小時\n電影 牽手 和妳 是一件很幸福的事.\n我們終於和好了",
@@ -2156,6 +2189,17 @@
       "likes": 854,
       "replies": 1,
       "reposts": 29,
+      "time_bucket": "24小時內"
+    },
+    {
+      "text": "15小時\n回顧一下\n看看紀錄今年三月的大聲疾呼\n可惜愛心數少得可憐\n南系列\n南亞往300走嗎？\n南電往2000走嗎？\n南亞科往750走嗎？\n深信\n再創榮耀\n指日可待\n#無關推薦\n翻譯",
+      "url": "https://www.threads.com/@misslisarabbit/post/DcIBjaFmsWn",
+      "username": "misslisarabbit",
+      "time_text": "15小時",
+      "datetime": "2026-08-17T03:01:14.000Z",
+      "likes": 846,
+      "replies": 0,
+      "reposts": 0,
       "time_bucket": "24小時內"
     },
     {
@@ -2189,7 +2233,7 @@
       "likes": 810,
       "replies": 22,
       "reposts": 11,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "皮質醇\n7小時\n研究發現：喝咖啡，會增加 皮質醇分泌",
@@ -2368,17 +2412,6 @@
       "time_bucket": "24小時內"
     },
     {
-      "text": "23小時\n🔈🔈🔈趁我老婆還沒認識AP手錶這個品牌之前，大家幫我出一分力，只要達到500,000觀看和追蹤Facebook的 SICO粉絲專頁，我老婆就會送我AP手錶😂😂😂😂😂😂😂\n-\n#sicolifestyle #日常 #杯墊 #原創 #工廠\n翻譯",
-      "url": "https://www.threads.com/@sico_lifestyle/post/DcHBngDkml6",
-      "username": "sico_lifestyle",
-      "time_text": "23小時",
-      "datetime": "2026-08-16T17:42:35.000Z",
-      "likes": 707,
-      "replies": 0,
-      "reposts": 9,
-      "time_bucket": "24小時內"
-    },
-    {
       "text": "10小時\n超好笑我脆上面全部都是克拉們要煮牛肉麵給自擔吃",
       "url": "https://www.threads.com/@yawn__9013/post/DcIYJxikkT7",
       "username": "yawn__9013",
@@ -2434,6 +2467,28 @@
       "time_bucket": "6小時內"
     },
     {
+      "text": "電影\n4小時\n誠徵陪我看電影的人！\n蜘蛛人/奧德賽隨便你挑\n飲料🥤爆米花🍿我幫你出！\n限台中市區\n乾淨有禮貌且懂尊重的人\n情商智商在線\n可以跟我聊電影觀後感的那種\n翻譯",
+      "url": "https://www.threads.com/@andrea__1118/post/DcJM2xtEkmE",
+      "username": "andrea__1118",
+      "time_text": "4小時",
+      "datetime": "2026-08-17T13:59:14.000Z",
+      "likes": 672,
+      "replies": 0,
+      "reposts": 0,
+      "time_bucket": "6小時內"
+    },
+    {
+      "text": "13小時\n昨天看到7086重出江湖唱歌，又多加了兩位團員，很好奇新的兩位是怎麼加入\n2023年七零八落團名的由來，政禹李超臨時組團的...真的很敢秀....去年看到這集真的覺得很好笑\nyoutu.be/ruJZm…\n翻譯",
+      "url": "https://www.threads.com/@birthday2583/post/DcIMZUpDZRX",
+      "username": "birthday2583",
+      "time_text": "13小時",
+      "datetime": "2026-08-17T04:37:58.000Z",
+      "likes": 659,
+      "replies": 0,
+      "reposts": 26,
+      "time_bucket": "24小時內"
+    },
+    {
       "text": "14小時\n最近聽了Selina 的podcast 迎任而解\n好舒壓啊！\n我好喜歡她的幽默、她的笑聲、她的一切❤️\n她在我心中是完美的😍\n真的就像Hebe 說的\n「我愛妳 所以我更想了解妳 所以願意花時間在妳身上」\n好希望Selina可以重新開啟迎任而解🪄🙏\n翻譯",
       "url": "https://www.threads.com/@sheroyounglove/post/DcIEXeWEZ_3",
       "username": "sheroyounglove",
@@ -2442,17 +2497,6 @@
       "likes": 651,
       "replies": 0,
       "reposts": 18,
-      "time_bucket": "24小時內"
-    },
-    {
-      "text": "12小時\n昨天看到7086重出江湖唱歌，又多加了兩位團員，很好奇新的兩位是怎麼加入\n2023年七零八落團名的由來，政禹李超臨時組團的...真的很敢秀....去年看到這集真的覺得很好笑\nyoutu.be/ruJZm…\n翻譯",
-      "url": "https://www.threads.com/@birthday2583/post/DcIMZUpDZRX",
-      "username": "birthday2583",
-      "time_text": "12小時",
-      "datetime": "2026-08-17T04:37:58.000Z",
-      "likes": 648,
-      "replies": 0,
-      "reposts": 26,
       "time_bucket": "24小時內"
     },
     {
@@ -2465,6 +2509,17 @@
       "replies": 2,
       "reposts": 39,
       "time_bucket": "12小時內"
+    },
+    {
+      "text": "4小時\n國王可以考慮把莊朝勝簽下來了吧\n翻譯",
+      "url": "https://www.threads.com/@yu.xuan.zhang/post/DcJKS_IGAGU",
+      "username": "yu.xuan.zhang",
+      "time_text": "4小時",
+      "datetime": "2026-08-17T13:36:52.000Z",
+      "likes": 646,
+      "replies": 0,
+      "reposts": 1,
+      "time_bucket": "6小時內"
     },
     {
       "text": "6小時\n柏林的行為心理學家莉娜•霍夫曼博士花費多年時間研究那些痴迷於自我提升的人。\n他們飲食規律，早睡早起，寫日記、冥想、冷水浴、健身並不斷的嘗試進步和成長。但在他們的「成長」表象之下，她發現了相同的情感模式：一種焦躁不安的逃避。\n她的結論很直白：大多數人並不想被治癒。他們想成為那個從未受過傷的人。他們把自我發展當作外科手術一切掉每一個缺點、恐懼和陰影。",
@@ -2522,15 +2577,26 @@
       "time_bucket": "6小時內"
     },
     {
-      "text": "14小時\n經過長達五分鐘的抉擇，我還是選擇了白球，沒想到手滑丟歪了 ，前面連續丟了12顆E球🫠\n翻譯",
+      "text": "15小時\n經過長達五分鐘的抉擇，我還是選擇了白球，沒想到手滑丟歪了 ，前面連續丟了12顆E球🫠\n翻譯",
       "url": "https://www.threads.com/@yuchuannn0301/post/DcIBfxBkpEJ",
       "username": "yuchuannn0301",
-      "time_text": "14小時",
+      "time_text": "15小時",
       "datetime": "2026-08-17T03:00:44.000Z",
-      "likes": 601,
+      "likes": 604,
       "replies": 0,
       "reposts": 2,
       "time_bucket": "24小時內"
+    },
+    {
+      "text": "7小時\n《婚禮前三個月，她才告訴我：其實我以前喜歡過你》\n婚禮前三個月的一個晚上，我正在家裡整理賓客名單，手機突然跳出一則訊息。是認識 12 年的女性朋友，阿雅。\n她先問我：「你現在方便聊天嗎？」\n我回她：「可以啊，怎麼了？」\n她隔了好幾分鐘才傳下一句。\n「有件以前的事，我想了很久，覺得還是應該讓你知道。」\n看到這裡，我心裡莫名有一種不太好的預感。\n我回：「什麼事？」\n這次，她又停了很久。\n然後畫面上出現一句：\n「我大學的時候，其實喜歡過你。」\n我盯著手機，大概有十幾秒完全不知道該回什麼。\n第一個念頭不是心動。\n是——蛤？\n我和阿雅大學時同一個社團，她一直是我最好的異性朋友之一。\n我們熟到身邊的人常常問：「你們兩個到底為什麼不在一起？」\n我們每次聽到都笑。\n「太熟了啦。」我是真的這麼認為。\n大學四年，她知道我喜歡過誰、追過誰，也知道我每一段戀愛是怎麼開始、怎麼結束。失戀的時候我會找她，她心",
+      "url": "https://www.threads.com/@le_luna_talks/post/DcI24TGD9Ak",
+      "username": "le_luna_talks",
+      "time_text": "7小時",
+      "datetime": "2026-08-17T10:47:12.000Z",
+      "likes": 603,
+      "replies": 0,
+      "reposts": 22,
+      "time_bucket": "12小時內"
     },
     {
       "text": "13小時\n請求支援輸贏\n有沒有那種可以騷擾朋友的梗圖\n他存好多我快輸了",
@@ -2541,6 +2607,17 @@
       "likes": 597,
       "replies": 66,
       "reposts": 43,
+      "time_bucket": "24小時內"
+    },
+    {
+      "text": "麻將\n15小時\n不小心聽了雞八東西😂\n翻譯",
+      "url": "https://www.threads.com/@y_uouoan/post/DcH9USxkkXu",
+      "username": "y_uouoan",
+      "time_text": "15小時",
+      "datetime": "2026-08-17T02:24:13.000Z",
+      "likes": 595,
+      "replies": 0,
+      "reposts": 0,
       "time_bucket": "24小時內"
     },
     {
@@ -2621,17 +2698,6 @@
       "time_bucket": "24小時內"
     },
     {
-      "text": "超夯：蕭伊\n15小時\n和女友一起吃蕭伊跟joeman的瓜\n這波挺蕭伊！",
-      "url": "https://www.threads.com/@eric121542/post/DcHCOgekzIV",
-      "username": "eric121542",
-      "time_text": "15小時",
-      "datetime": "2026-08-16T17:47:52.000Z",
-      "likes": 574,
-      "replies": 20,
-      "reposts": 8,
-      "time_bucket": "24小時內"
-    },
-    {
       "text": "賴清德\n6小時\n賴清德宣布普發1萬！\n莊競程震撼加碼：當選新竹市長每人領2萬",
       "url": "https://www.threads.com/@ftvnews/post/DcIv39okVp7",
       "username": "ftvnews",
@@ -2640,6 +2706,17 @@
       "likes": 570,
       "replies": 21,
       "reposts": 35,
+      "time_bucket": "12小時內"
+    },
+    {
+      "text": "10小時\njet左右兩邊會差那麼多喔 騎一騎感覺怎麼右邊怪怪的\n翻譯",
+      "url": "https://www.threads.com/@zzzz._yuan/post/DcIiu5UFELZ",
+      "username": "zzzz._yuan",
+      "time_text": "10小時",
+      "datetime": "2026-08-17T07:51:09.000Z",
+      "likes": 560,
+      "replies": 0,
+      "reposts": 1,
       "time_bucket": "12小時內"
     },
     {
@@ -2665,6 +2742,17 @@
       "time_bucket": "12小時內"
     },
     {
+      "text": "陳鏞基\n15小時\n陳鏞基台東引退賽最終章！　猛獅與台鋼雄鷹攜手送球迷「回家的路」明信片 ＃陳鏞基 ＃台鋼雄鷹 ＃統一獅 ＃台東\n翻譯",
+      "url": "https://www.threads.com/@tsna.ig/post/DcIAGzOGhsw",
+      "username": "tsna.ig",
+      "time_text": "15小時",
+      "datetime": "2026-08-17T02:48:35.000Z",
+      "likes": 545,
+      "replies": 0,
+      "reposts": 9,
+      "time_bucket": "24小時內"
+    },
+    {
       "text": "19小時\n唐綺陽預測\n下半年桃花超旺的星座：\n處女座♍️\n還有誰也是處女座\n處女 baby 舉手🙋‍♀️🙋‍♂️\n我是8.26處女座！！！也是一名命理師\n單身的處女baby 留下生日🎂\n感情有疑惑也可以來找我，我超準的欸！！！！\n大家都是幾號的處女座？？？？🎐\n翻譯",
       "url": "https://www.threads.com/@yuyuan4560/post/DcHYDZQiP9n",
       "username": "yuyuan4560",
@@ -2685,6 +2773,17 @@
       "replies": 0,
       "reposts": 4,
       "time_bucket": "12小時內"
+    },
+    {
+      "text": "13小時\n從陽明高中變成陽明交大🧏",
+      "url": "https://www.threads.com/@_yunique._/post/DcINQA_EqHn",
+      "username": "_yunique._",
+      "time_text": "13小時",
+      "datetime": "2026-08-17T04:43:26.000Z",
+      "likes": 529,
+      "replies": 0,
+      "reposts": 1,
+      "time_bucket": "24小時內"
     },
     {
       "text": "2小時\n=)))))))))))))))))))",
@@ -2783,7 +2882,7 @@
       "likes": 489,
       "replies": 13,
       "reposts": 2,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "10小時\n釋票這麼多到底是有沒有要加場😂\n翻譯",
@@ -2816,7 +2915,7 @@
       "likes": 482,
       "replies": 33,
       "reposts": 31,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "6小時\n真心建議：在你覺得痛苦的時候\n可以對自己說聲「謝謝」\n當你在健身時，謝謝你的身體\n當你在嘗試新的事物時，謝謝你的大腦\n當你在陷入迷茫、焦慮、痛苦時，謝謝你還活著\n我知道生命中總有些不如意\n謝謝這些養分，帶你走了這麼遠的路",
@@ -2959,7 +3058,7 @@
       "likes": 440,
       "replies": 8,
       "reposts": 13,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "6小時\n說到扣分這件事，有一次我問男友做了什麼事在他心裡會扣分呢？\n他想了很久，久到我懷疑自己在跟牆壁自言自語，然後說：「我覺得愛是加分，我想不到什麼事會扣分」\n我戀愛腦就這樣被慣出來的謝謝！",
@@ -3014,7 +3113,7 @@
       "likes": 427,
       "replies": 190,
       "reposts": 4,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "19小時\n「我愛你不是因為你是誰，而是我在你面前可以是誰。」",
@@ -3157,7 +3256,18 @@
       "likes": 350,
       "replies": 10,
       "reposts": 14,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
+    },
+    {
+      "text": "吉伊卡哇 ちいかわ chiikawa\n12小時\n欸不是 你海報這種東西就不能弄一個3張票送一整套的方案嗎 都第四週了還要折磨我們吉粉\n翻譯",
+      "url": "https://www.threads.com/@piggy5891/post/DcIWMN2j3S8",
+      "username": "piggy5891",
+      "time_text": "12小時",
+      "datetime": "2026-08-17T06:01:34.000Z",
+      "likes": 342,
+      "replies": 0,
+      "reposts": 1,
+      "time_bucket": "24小時內"
     },
     {
       "text": "14小時\n如果post malone演唱會don toliver確定不來可以讓我全額退費嗎。。。。。。\n翻譯",
@@ -3245,7 +3355,7 @@
       "likes": 319,
       "replies": 50,
       "reposts": 22,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "7小時\n玩個遊戲真的超級容易遇到雌競女😍",
@@ -3281,6 +3391,17 @@
       "time_bucket": "12小時內"
     },
     {
+      "text": "傳說對決\n8小時\n超好笑 450點券掰掰👋\n翻譯",
+      "url": "https://www.threads.com/@aov_modeling/post/DcIr0nigama",
+      "username": "aov_modeling",
+      "time_text": "8小時",
+      "datetime": "2026-08-17T09:10:35.000Z",
+      "likes": 303,
+      "replies": 0,
+      "reposts": 1,
+      "time_bucket": "12小時內"
+    },
+    {
       "text": "超夯：牛肉麵\n4小時\n我覺得台中最強半夜牛肉麵就是來來豆漿的牛肉麵跟錢櫃牛肉麵，真的強",
       "url": "https://www.threads.com/@nuvocal/post/DcI_EfamQ9w",
       "username": "nuvocal",
@@ -3289,7 +3410,7 @@
       "likes": 303,
       "replies": 26,
       "reposts": 2,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "1小時\n時隔半年之久\nC.holly又帶著新作品來震撼大家 而且還跟DJ Soda合作\n扯 扯爆了我的媽呀",
@@ -3300,7 +3421,7 @@
       "likes": 299,
       "replies": 3,
       "reposts": 14,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "1小時\n每天一篇文直到脫單。D63\n8/16｜告白後的隔天，還是會心動的暗戀日記\n（已經告白了還算暗戀嗎？我不知道，不管啦😍）\n表達完我的內心想法後的隔天，\n我們還是照常上班、專心上班。\n表面上看起來好像什麼都沒變，\n但內心其實還是會有一點小尷尬，甚至害羞、緊張🥹\n然後還要努力裝作若無其事的樣子……\n內心尖叫：\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！\n是！沒錯！\n我找他一起練了！\n終於真的說出口了啦🥹\n算是解鎖「一起健身」了嗎？咦？（？）\n雖然只有半小時哈哈哈🤣\n但對我來說已經是很大的進展了吧🙂‍↕️\n而且我也很勇敢地找他一起去買晚餐～\n從原本前幾次都是我找他一起去丟垃圾，\n到這次換成他主動找我一起去丟垃圾🙂‍↕️\n所以……\n這已經默默變成固定行程了嗎哈哈哈哈🤣\n明明都是一些很日常、很小很小的事情，\n但因為是跟他一起，\n好像每一件事情都會變得特別一點🥹\n時間過得好快，\n一下",
@@ -3432,7 +3553,7 @@
       "likes": 247,
       "replies": 11,
       "reposts": 7,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "連假\n11小時\n\\\\ 2026最新行事曆!!!!!✨//\n中秋節+教師節放4天（8/27搶高鐵票）\n緊接國慶🇹🇼連假～～～",
@@ -3476,6 +3597,17 @@
       "likes": 237,
       "replies": 0,
       "reposts": 3,
+      "time_bucket": "24小時內"
+    },
+    {
+      "text": "21小時\n天公含淚示警\n民國 68 年 | 1979 年 | 47 歲\n民國 68 年（西元 1979 年）屬羊人，請收下這封「天命書」\n翻譯",
+      "url": "https://www.threads.com/@margaretmarie.alboni.2446/post/DcHVAe2jVsI",
+      "username": "margaretmarie.alboni.2446",
+      "time_text": "21小時",
+      "datetime": "2026-08-16T20:31:59.000Z",
+      "likes": 231,
+      "replies": 0,
+      "reposts": 1,
       "time_bucket": "24小時內"
     },
     {
@@ -3564,7 +3696,7 @@
       "likes": 217,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "9小時\n我現在很暈一個男生 急需一個人叫醒我 救救我",
@@ -3619,6 +3751,17 @@
       "likes": 202,
       "replies": 6,
       "reposts": 3,
+      "time_bucket": "12小時內"
+    },
+    {
+      "text": "8小時\n用這把把壺神硬是把清一色胡成了18羅漢\n後來同事禁止我拿這出來😅\n翻譯",
+      "url": "https://www.threads.com/@meimei27581/post/DcItR6XicNT",
+      "username": "meimei27581",
+      "time_text": "8小時",
+      "datetime": "2026-08-17T09:23:19.000Z",
+      "likes": 200,
+      "replies": 0,
+      "reposts": 0,
       "time_bucket": "12小時內"
     },
     {
@@ -3696,7 +3839,7 @@
       "likes": 193,
       "replies": 15,
       "reposts": 1,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "21小時\n欸不是\n今天點開脆\n全部都是九妹的翻車文\n我最近因為建文和Bryce的入鏡\n才開始看九妹YT\n我是還要不要繼續看下去🙃\n翻譯",
@@ -3729,6 +3872,17 @@
       "likes": 191,
       "replies": 203,
       "reposts": 0,
+      "time_bucket": "24小時內"
+    },
+    {
+      "text": "19小時\n開飲料店這麼多年。\n有一杯我到現在還是不會做。\n「都可以。」\n🤣\n請問到底是哪一杯？\n翻譯",
+      "url": "https://www.threads.com/@cozytealoft_changhua/post/DcHl_DYj384",
+      "username": "cozytealoft_changhua",
+      "time_text": "19小時",
+      "datetime": "2026-08-16T23:00:20.000Z",
+      "likes": 190,
+      "replies": 0,
+      "reposts": 8,
       "time_bucket": "24小時內"
     },
     {
@@ -3773,7 +3927,7 @@
       "likes": 179,
       "replies": 0,
       "reposts": 3,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "第一則串文\n4小時\n原本以為拒絕網友第一次喝咖啡邀請後\n我們就會慢慢不聊了\n結果這個人完全沒有情緒勒索\n害我更暈\n我們那時候已經在 cuple 聊三個禮拜\n每天都會分享工作鳥事跟今天喝了什麼\n但他第一次送出喝咖啡邀請時\n我還是有點怕尷尬，所以就先拒絕了\n又聊了兩個禮拜後\n我覺得我準備好了，所以換我找他去喝咖啡\n這次換他緊張了😂😂😂😂",
@@ -3784,18 +3938,7 @@
       "likes": 179,
       "replies": 10,
       "reposts": 0,
-      "time_bucket": "6小時內"
-    },
-    {
-      "text": "17小時\n開飲料店這麼多年。\n有一杯我到現在還是不會做。\n「都可以。」\n🤣\n請問到底是哪一杯？\n翻譯",
-      "url": "https://www.threads.com/@cozytealoft_changhua/post/DcHl_DYj384",
-      "username": "cozytealoft_changhua",
-      "time_text": "17小時",
-      "datetime": "2026-08-16T23:00:20.000Z",
-      "likes": 176,
-      "replies": 0,
-      "reposts": 8,
-      "time_bucket": "24小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "1小時\n「享受當下的真實感，我們不急著定義彼此的關係。」\nEnjoy the realness of now; no rush to define us.",
@@ -3842,17 +3985,6 @@
       "time_bucket": "24小時內"
     },
     {
-      "text": "22小時\n去看禮生的reels合拍的人的類型\n就知道蕭為什麼要驗性病了🤢🤮\n遇到九妹真的衰小⋯⋯\n真的沒質感到要瘋掉啦😵‍💫\n2486怎麼跟YTR、美妝主搭上的==\n翻譯",
-      "url": "https://www.threads.com/@zebra.1436553/post/DcHD78lj29s",
-      "username": "zebra.1436553",
-      "time_text": "22小時",
-      "datetime": "2026-08-16T18:02:49.000Z",
-      "likes": 168,
-      "replies": 0,
-      "reposts": 3,
-      "time_bucket": "24小時內"
-    },
-    {
       "text": "嘻哈音樂\n3小時\n原來迪拉胖說的是真的！\n（顏社21週年演唱會，今年最最期待）",
       "url": "https://www.threads.com/@kwansixtynine/post/DcIWZkIGNqK",
       "username": "kwansixtynine",
@@ -3861,7 +3993,7 @@
       "likes": 167,
       "replies": 1,
       "reposts": 0,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "11小時\n要登山、健行、出國的朋朋不要錯過\n昨天發現「Smartwool 羊毛襪🧦」五折\n抗臭效果超好，可以機洗🥹\n跟家人一起買了9雙\n（有檢查過買的那幾雙幾乎沒瑕疵）\n📍台中三井\n翻譯",
@@ -3872,7 +4004,7 @@
       "likes": 160,
       "replies": 0,
       "reposts": 3,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "唭哩岸\n13小時\n謝謝來吃拉麵🙌🙌🙌\n翻譯",
@@ -3950,17 +4082,6 @@
       "replies": 50,
       "reposts": 0,
       "time_bucket": "12小時內"
-    },
-    {
-      "text": "麥胞日記\n23小時\n來記錄一下麥胞日常好了\n最近有個問題想請教資深麥胞\n如果要調去很多新人的新店\n現在的老闆問我說調去那邊有沒有考慮升管理組\n因為他們真的很缺人\n如果是要升管理組\n想問大家覺得所有工作站包含特殊區站都要會嗎\n因為其實我現在真的就只會外場\n但有點心動\n因為自己工時高然後又很缺錢\n我又是那種如果閒下來會覺得很煩躁的人\n反而很忙會很有成就感（超有病\n我自己是覺得應該至少外場跟廚房都要會\n所以目前想學廚房\n但還是想聽聽麥胞的意見\n不要罵我罵太兇\n我滿玻璃心🫪\n翻譯",
-      "url": "https://www.threads.com/@bibibobo_0105/post/DcHDwnuiYl8",
-      "username": "bibibobo_0105",
-      "time_text": "23小時",
-      "datetime": "2026-08-16T18:01:16.000Z",
-      "likes": 141,
-      "replies": 0,
-      "reposts": 0,
-      "time_bucket": "24小時內"
     },
     {
       "text": "育兒\n9小時\n整理完新生兒的衣服\n發現紗布衣只有6件\n對於在家坐月子來說 是不是不太夠..？\n翻譯",
@@ -4268,7 +4389,7 @@
       "likes": 105,
       "replies": 1,
       "reposts": 2,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "煮飯日常\n18小時\n老樣子\n準備五天的便當\n吃了快三年的青花菜、高麗菜\n覺得撞牆期快到啦\n翻譯",
@@ -4290,7 +4411,7 @@
       "likes": 104,
       "replies": 78,
       "reposts": 0,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "2小時\n大家很在意四點煮牛肉麵這件事\n但基本上如果一個月給我50萬\n凌晨四點要我煮什麼都行😋",
@@ -4400,7 +4521,7 @@
       "likes": 93,
       "replies": 0,
       "reposts": 2,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "戰鬥陀螺X\n10小時\n蹲那麼多天終於蹲到啦\n翻譯",
@@ -4433,7 +4554,7 @@
       "likes": 93,
       "replies": 10,
       "reposts": 1,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "禮物推薦\n12小時\n求送女生朋友生日禮物推薦！\n真的想不到要送什麼了😭\n翻譯",
@@ -4543,7 +4664,7 @@
       "likes": 83,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "超夯：七夕\n七夕活動\n3小時\n⚠️ Red.1990 七夕活動重要公告 ⚠️\n真的很感謝上週響應我們活動的朋友們！\n上週已經累積了 300 組單身、情侶到我們店裡參加活動\n真的再次感謝！！！\n我們本來以為會萬人響應零人到場（？\n這週的剩下這週二和三\n接下來最後的 80 組歡迎大家也來拍照\n現場也會發放號碼牌、讓大家知道進度\n也歡迎大家拍完之後多多標記我們\n祝大家都能趁這次找到另一半 💗\n如果真的脫單記得回來或私訊我們 跟我們分享喜悅！！\n最後！週三就是七夕囉\n也先祝大家情人節快樂 🎉\n歡迎大家把消息告訴大家！",
@@ -4554,7 +4675,7 @@
       "likes": 83,
       "replies": 4,
       "reposts": 1,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "11小時\n戒當沖第12天\n翻譯",
@@ -4565,7 +4686,7 @@
       "likes": 82,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "心情日記\n1小時\n擁抱是兩顆心臟最靠近的時刻\n如果你在思念的那個人他說他很想你\n如果可以奮不顧身的馬上衝去見他\n兩人還沒說話就先緊緊的擁抱住\n是一件超級幸福浪漫的事",
@@ -4576,7 +4697,7 @@
       "likes": 82,
       "replies": 1,
       "reposts": 2,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "普發1萬\n3小時\n不只普發1萬！7縣市加碼現金「最高爽領9500元」資格、時間一次看",
@@ -4653,7 +4774,7 @@
       "likes": 77,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "6小時\n如果我覺得朋友的曖昧對象很糟，就會很委婉地對他們說\n「你這對象就算談上了，我也不會羨慕。」",
@@ -4689,17 +4810,6 @@
       "time_bucket": "12小時內"
     },
     {
-      "text": "23小時\n完全錯過野陶祭……\n請問創作者們有人是有線上賣場的嗎😭我真的好喜歡陶藝\n翻譯",
-      "url": "https://www.threads.com/@wayne24178/post/DcHC5YfkxG1",
-      "username": "wayne24178",
-      "time_text": "23小時",
-      "datetime": "2026-08-16T17:53:43.000Z",
-      "likes": 74,
-      "replies": 0,
-      "reposts": 3,
-      "time_bucket": "24小時內"
-    },
-    {
       "text": "超夯：牛肉麵\n9小時\n全網都在罵凌晨3:00煮牛肉麵\n結果我本人今天凌晨2:30把男友當ubereats",
       "url": "https://www.threads.com/@jie39/post/DcIcxOoEmjh",
       "username": "jie39",
@@ -4730,7 +4840,7 @@
       "likes": 72,
       "replies": 0,
       "reposts": 1,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "6小時\n我有一個奇怪的交友標準：\n「先看對方存了哪些咖啡廳。」\n朋友都表示，蛤？這什麼奇怪的判斷方式？\n但我覺得，你看一個人平常會收藏什麼店，其實滿容易看出他怎麼過生活的。有人願意跑很遠只為了喝一杯咖啡，我就會覺得，嗯，至少是個對喜歡的東西滿認真的人。\n而且如果他的清單裡，剛好有幾間我也超想去...\n那不是很好嗎？直接有下一句可以聊了( .ˬ.)⁾⁾",
@@ -4884,7 +4994,7 @@
       "likes": 63,
       "replies": 1,
       "reposts": 0,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
     },
     {
       "text": "食品安全\n9小時\n北市知名餅店出事！\n發粿檢出毒化物玫瑰紅B",
@@ -4915,6 +5025,17 @@
       "time_text": "13小時",
       "datetime": "2026-08-17T03:26:35.000Z",
       "likes": 58,
+      "replies": 0,
+      "reposts": 0,
+      "time_bucket": "24小時內"
+    },
+    {
+      "text": "12小時\n男友用line禮物送其他女生生日禮物\n被我看到付款取消通知（因為對方沒有填寫收件地址導致訂單取消）\n我看到當下很難過，但他們也是認識好幾年的朋友，比認識我時間還長，但還不知道怎麼釋懷\n翻譯",
+      "url": "https://www.threads.com/@kangaroo.43657501/post/DcIVdVbEd3m",
+      "username": "kangaroo.43657501",
+      "time_text": "12小時",
+      "datetime": "2026-08-17T05:55:10.000Z",
+      "likes": 56,
       "replies": 0,
       "reposts": 0,
       "time_bucket": "24小時內"
@@ -5071,7 +5192,7 @@
       "likes": 47,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "3小時\n剛剛看到一段話：\n分享欲是最自然的愛意，是最純真的愛意，分享欲意味著，我的世界自始至終和你有著一段聯繫。以前，看到好看的花，奇怪的樹，可愛的小動物，甚至天上一朵奇怪形狀的雲，它們都是有名字的，它們都會成為我手機里的一張照片，發給心裡掛念的那個人，然後期待一段回應。可分開後，花便成了花，樹也只是樹，草遍地都是，小貓小狗也成了路邊的靜止物。\n「它們都失去了顏色和意義」",
@@ -5104,7 +5225,7 @@
       "likes": 45,
       "replies": 0,
       "reposts": 1,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "20小時\n這告訴我們南一中的龜頭媽媽真的不可以亂摸\nJoeman的感情學分真的被當了😅",
@@ -5225,7 +5346,18 @@
       "likes": 35,
       "replies": 2,
       "reposts": 0,
-      "time_bucket": "6小時內"
+      "time_bucket": "12小時內"
+    },
+    {
+      "text": "16小時\n賣了玉山金 賺15000 金融股配息好少\n兆豐金 等下個月再賣 也賺15000 小小上班族 小小小確辛\n翻譯",
+      "url": "https://www.threads.com/@oushihcheng/post/DcH6MgNCZm7",
+      "username": "oushihcheng",
+      "time_text": "16小時",
+      "datetime": "2026-08-17T01:56:56.000Z",
+      "likes": 34,
+      "replies": 0,
+      "reposts": 0,
+      "time_bucket": "24小時內"
     },
     {
       "text": "楓之谷經典版\n11小時\n紀念一下！\n無課仔總算肝到三轉的門檻了\n所有點裝、通行證都是靠自己農楓幣換來的\n成就感還是滿多的！\n另外\n獵人其實不用一直擠在猴森\n經驗並沒有輸太多\n60等換武器就可以來了\n但我真的臉很黑\n到現在才一張手攻而已...\n翻譯",
@@ -5236,7 +5368,7 @@
       "likes": 34,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "17分鐘\n真誠，要放在也對你真心的人身上\n《納瓦爾寶典》有提到說：長期關係要跟有誠信的人玩「重複賽局」。如果對方只看短期利益、會佔便宜，那你的真誠放進去，不會變成信任，只會變成被利用的入口。\n不是對人掏心掏肺就一定能感動人，真誠要放在也對你真心的人身上。",
@@ -5294,6 +5426,17 @@
       "time_bucket": "24小時內"
     },
     {
+      "text": "4小時\n有人知道自由交叉新庄仔路的超爆臭豆腐去哪裡了嗎ಥ_ಥ\n都還沒吃到就不見了\n希望能吃到啊～～～\n翻譯",
+      "url": "https://www.threads.com/@_shu.6__/post/DcJHc3ykxI5",
+      "username": "_shu.6__",
+      "time_text": "4小時",
+      "datetime": "2026-08-17T13:12:00.000Z",
+      "likes": 31,
+      "replies": 0,
+      "reposts": 0,
+      "time_bucket": "6小時內"
+    },
+    {
       "text": "1小時\n剛剛才知道後天是七夕\n為了保護單身狗的我\n決定要跟實驗室請假關在家不上網一天",
       "url": "https://www.threads.com/@zihuanchiu/post/DcJRhwbmQ00",
       "username": "zihuanchiu",
@@ -5324,7 +5467,7 @@
       "likes": 30,
       "replies": 0,
       "reposts": 3,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "35分鐘\n陳幸妤最氣許芊芊！爆她住趙建銘診所樓上：門禁比我還森嚴\n記者林東良翻攝",
@@ -5379,7 +5522,7 @@
       "likes": 27,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "12小時內"
+      "time_bucket": "24小時內"
     },
     {
       "text": "5小時\nHiggsfield 直接做進 ChatGPT 和 Codex 裡了！不用開網站，聊天視窗打字就能生圖生片",
@@ -5432,6 +5575,17 @@
       "time_text": "1小時",
       "datetime": "2026-08-17T14:39:05.000Z",
       "likes": 25,
+      "replies": 0,
+      "reposts": 0,
+      "time_bucket": "6小時內"
+    },
+    {
+      "text": "星宇航空\n4小時\n好扯喔!! 星宇航空 台北 ⇄ 東京✈️✈️\n來回含稅 $11,563 ，還有 23KG 行李！\n翻譯",
+      "url": "https://www.threads.com/@niu00_000/post/DcJLd-ADwOG",
+      "username": "niu00_000",
+      "time_text": "4小時",
+      "datetime": "2026-08-17T13:47:06.000Z",
+      "likes": 24,
       "replies": 0,
       "reposts": 0,
       "time_bucket": "6小時內"
@@ -5522,7 +5676,7 @@
       "likes": 21,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "1小時\n今天！終於！買到票了！\n去年搶志龍搶了好幾天一場都沒能看到！",
@@ -5701,6 +5855,17 @@
       "time_bucket": "6小時內"
     },
     {
+      "text": "新竹寶山\n15小時\n新竹寶山鄉有任何山莊的房子要售嗎？或是屋主正在蓋還沒蓋好要售的～～\n翻譯",
+      "url": "https://www.threads.com/@tonnnny_lysk898/post/DcH_SS6k9jG",
+      "username": "tonnnny_lysk898",
+      "time_text": "15小時",
+      "datetime": "2026-08-17T02:41:25.000Z",
+      "likes": 14,
+      "replies": 0,
+      "reposts": 0,
+      "time_bucket": "24小時內"
+    },
+    {
       "text": "1小時\n：但我對婚姻沒有嚮往\n：為什麼呀？我從小就想要結婚\n：可能因為家庭，跟看了自己的好朋友們結婚離婚，就覺得婚姻要找到好的人才真的可以\n：我覺得我嚮往很幸福很快樂的家，但大部分我看到跟社會上的都不是，所以才變得沒有很嚮往\n：不要為了結婚而結婚，大部分的人覺得年紀到了就結婚\n：對啊我真的好想知道為什麼那麼想結婚，結婚有什麼好的嗎？\n：我會想有家，但我覺得家，是這個人帶給我的安定跟安全感，但不一定是結婚這件事\n所以為什麼會想要結婚",
       "url": "https://www.threads.com/@rainy__227/post/DcJQZ5dkhdA",
       "username": "rainy__227",
@@ -5819,7 +5984,7 @@
       "likes": 9,
       "replies": 6,
       "reposts": 0,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "笑話\n9分鐘\n這個就是我，沒在開玩笑的",
@@ -6072,7 +6237,7 @@
       "likes": 4,
       "replies": 0,
       "reposts": 0,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "2小時\n耶有人理我了✌️",
@@ -6457,7 +6622,7 @@
       "likes": 1,
       "replies": 3,
       "reposts": 0,
-      "time_bucket": "3小時內"
+      "time_bucket": "6小時內"
     },
     {
       "text": "第一則串文\n18分鐘\n脆上第一篇文經過深呼吸吐氣2萬次之後終於要發了，之後可能會發比較多專案開發心路歷程紀錄，希望之後發文不用再呼吸這麼多次（？\n還是先感謝\n和\n不嫌棄我這個半路出家的人願意把後端全權交給我處理，希望大家之後在使用並讚嘆頁面和功能有多精美的時候也能想起底迪我的功勞，目前我們的專案主要是想要解決：\n「相信大家在求職的時候應該會遇到一個情況，發現一個夢寐以求的工作但自己會的和工作要求的條件卻不一樣，如果還是學生，可以靠修課來解決，但假如已經畢業了的話，就必須花時間花力氣去找可以補足技能缺口的方法，無論是外面的坊間課程或是網路資源，花了一番力氣學完之後卻發現，學的跟那份工作要的根本是兩回事。」\n所以我們想試試看：如果求職的時候，能直接依照你現在會的技能，點出你差在哪、又可以去哪裡補，是不是就能少走很多冤枉路？\n弄了大概半年，想先來試試水溫，看看這個點子值不值得繼續做下去。\n歡迎來",
